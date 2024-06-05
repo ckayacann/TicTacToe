@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=dart
+**/pubspec.lock linguist-generated=true
+pkgs/dart_services/lib/src/shared/** linguist-generated=true
+pkgs/dartpad_ui/lib/samples.g.dart linguist-generated=true
+pkgs/dartpad_ui/web/codemirror/** linguist-generated=true
